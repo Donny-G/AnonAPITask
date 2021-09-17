@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		053A1FC726F49606007FA271 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053A1FC626F49606007FA271 /* Image.swift */; };
 		C325CA56266E29F400B7DB11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C325CA55266E29F400B7DB11 /* AppDelegate.swift */; };
 		C325CA58266E29F400B7DB11 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C325CA57266E29F400B7DB11 /* SceneDelegate.swift */; };
 		C325CA5A266E29F400B7DB11 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C325CA59266E29F400B7DB11 /* ContentView.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		053A1FC626F49606007FA271 /* Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
 		C325CA52266E29F300B7DB11 /* AnonAPITask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnonAPITask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C325CA55266E29F400B7DB11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C325CA57266E29F400B7DB11 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				C325CA55266E29F400B7DB11 /* AppDelegate.swift */,
 				C325CA57266E29F400B7DB11 /* SceneDelegate.swift */,
 				C325CA59266E29F400B7DB11 /* ContentView.swift */,
+				053A1FC626F49606007FA271 /* Image.swift */,
 				C325CA6D266E2A9A00B7DB11 /* SingleItemView.swift */,
 				C325CA70266E2AEA00B7DB11 /* DetailImageView.swift */,
 				C325CA73266E2B2200B7DB11 /* AllPagesView.swift */,
@@ -178,6 +181,7 @@
 				C325CA83266E2C0300B7DB11 /* Model.swift in Sources */,
 				C325CA7D266E2BA800B7DB11 /* AnonDataFetcher.swift in Sources */,
 				C325CA7A266E2B8600B7DB11 /* ImageCacheLoader.swift in Sources */,
+				053A1FC726F49606007FA271 /* Image.swift in Sources */,
 				C325CA58266E29F400B7DB11 /* SceneDelegate.swift in Sources */,
 				C325CA5A266E29F400B7DB11 /* ContentView.swift in Sources */,
 				C325CA6E266E2A9A00B7DB11 /* SingleItemView.swift in Sources */,
